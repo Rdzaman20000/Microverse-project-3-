@@ -10,7 +10,22 @@
     margin: 20px;
     text-align: center;
   }
-  
+  h1{
+    font-size: 1.285em;
+  }
+
+  h3{
+    font-size: 1.134em;
+  }
+  h3 {
+    width: 300px;
+    border: 15px solid rgb(128, 105, 0);
+    padding: 40px;
+    margin: 30px;
+    text-align: center;
+  }
+
+
  h1{
     font-family: "Lucida Console", "Courier New", monospace;
   }
