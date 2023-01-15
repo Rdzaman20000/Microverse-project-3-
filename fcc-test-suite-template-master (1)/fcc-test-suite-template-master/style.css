@@ -1,10 +1,19 @@
 @media only screen and (orientation: landscape) {
     body {
-      background-color: lightblue;
+      background-color: silver;
     }
   }
-  
-  
   h1 {
-    color: green;
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+    text-align: center;
+  }
+  
+ h1{
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
+  h1 {
+    color: yellow;
   }
